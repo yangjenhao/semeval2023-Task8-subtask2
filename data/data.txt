@@ -1,0 +1,8 @@
+sample
+https://drive.google.com/drive/folders/1cN20UanW8GmrDo1YkeMP5_AGTZ_QOtlG
+
+Python script to download the actual posts:
+https://drive.google.com/file/d/10D5VKvdKcIJvtC47vE7IcQQl_2f9qvG4/view
+
+Medium article if you need help with reddit crediational require in the script
+https://towardsdatascience.com/scraping-reddit-data-1c0af3040768
